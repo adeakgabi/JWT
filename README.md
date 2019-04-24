@@ -9,3 +9,5 @@ the terminal.
 * Make sure you have Java 10 installed on your system. [Get it here](http://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html)
 * Clone the repository using the command `git clone https://github.com/vladimirfomene/springboot-auth-updated.git`
 * Run `gradle bootrun` to build and run the project or run the project from your ide(make sure you build it before running)
+
+# JWT
